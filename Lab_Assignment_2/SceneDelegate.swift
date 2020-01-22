@@ -1,5 +1,9 @@
 //
-//  SceneDelegate.swift
+//  CoreData.swift
+//  Lab_Assignment_2
+//
+//  Created by Vivek Madishetty on 2020-01-21.
+//  Copyright © 2020 vivek. All rights reserved.
 //
 
 import UIKit
