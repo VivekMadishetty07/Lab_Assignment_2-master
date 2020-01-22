@@ -9,6 +9,7 @@ import CoreData
 class TableViewController: UITableViewController {
     
     
+    
     let coreData = CoreData()
     var model = modelClass()
     var mclass = [modelClass]()
